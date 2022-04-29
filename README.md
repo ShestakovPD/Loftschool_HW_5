@@ -15,6 +15,8 @@ App\Model\User.php App\Controller\User.php.
 
 По ДЗ № 5
 
+Необходимо update composer для подключения папки vendor ( включена в .gitignor)
+
 5.1. Отправка письма посредством библиотеки swiftmailer
 реализована без применения MVC отдельным файлом с подключением класса
 
